@@ -1,4 +1,5 @@
 # Perplexity Ask MCP Server
+[![smithery badge](https://smithery.ai/badge/@vincenthopf/perplexity-mcp)](https://smithery.ai/server/@vincenthopf/perplexity-mcp)
 
 An MCP server implementation that integrates the Sonar API to provide Claude with unparalleled real-time, web-wide research.
 
@@ -157,4 +158,3 @@ You should then see the application being part of your available tools like this
 ## License
 
 This MCP server is licensed under the MIT License. This means you are free to use, modify, and distribute the software, subject to the terms and conditions of the MIT License. For more details, please see the LICENSE file in the project repository.
-
